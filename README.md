@@ -1,2 +1,2 @@
-# legendary-enigma
+# legendary-enigma-client
 MiggraVideoCallAppClient repository
